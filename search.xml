@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/3eeb.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>labymod离线版</title>
+    <url>/posts/c7fe.html</url>
+    <content><![CDATA[<p>Labymod是著名的PVP客户端，美丽的UI和很好的交互页面很多人喜欢它，但是Labymod只能正版账户使用，离线账户是无法使用的，官网给的UI mod版本太低了<br>今天我们来给它通过离线开。<br>下载地址：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.123pan.cn/s/fV0LVv-dooFd</span><br></pre></td></tr></table></figure>
+<p>步骤1  打开ISO镜像<br><img src="https://pic.imgdb.cn/item/66ef70ddf21886ccc007e31b.png"><br>步骤2  打开里面的第一个文件<br><img src="https://pic.imgdb.cn/item/66ef710df21886ccc00818bd.png"><br>步骤3  打开选择管理员权限安装<br><img src="https://pic.imgdb.cn/item/66ef7130f21886ccc0083e06.png"><br>步骤4  用自己的启动器添加文件把刚才我们安装的路径中minecraft文件选择，就可以看到<br><img src="https://pic.imgdb.cn/item/66ef714bf21886ccc0085ea3.png"><br>步骤5  选择自己的版本，启动游戏即可<br><img src="https://pic.imgdb.cn/item/66ef720af21886ccc00901b4.png"><br>注：如果需要更新的，可在镜像文件中第二个打开，选择你刚才安装的路径即可<br>纠正错误：启动器请使用在安装目录下的定制启动器，其它启动器可能出现黑屏文字加载错误现象！</p>
+]]></content>
+      <tags>
+        <tag>Minecraft</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于本站</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>即刻短文</title>
+    <url>/essay/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>友情链接</title>
+    <url>/links/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>留言板</title>
+    <url>/message/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>音乐馆</title>
+    <url>/music/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>隐私政策</title>
+    <url>/privacy/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>

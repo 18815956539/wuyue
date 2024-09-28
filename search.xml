@@ -13,7 +13,7 @@
 <p>4.您应当 在您二次修改并分发以此整合包任何版本为基底的整合包的官方介绍页面或发布网站上放置一个定位到本整合包 MC百科页面 或页面的有效链接。</p>
 <p>5.您不可以 在您二次修改并分发以此整合包任何版本为基底的整合包中添加任何违法违规内容。我们无权 随意地撤销我们先前给您的许可。</p>
 <h3 id="整合包的下载"><a href="#整合包的下载" class="headerlink" title="整合包的下载"></a>整合包的下载</h3><p>这里仅展示最新版本，如需要其它版本，请访问该链接，MC百科: <a href="https://www.mcmod.cn/modpack/885.html">整合包MC百科页面</a></p>
-<p>Modrinth: Fabric1.20.1下载地址: <a href="https://modrinth.com/modpack/better-mtr">下载</a><br>Modrinth: Fabric1.19.4下载地址: <a href="https://www.123pan.com/s/6FjRjv-DVwsA#%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9A1145">下载</a></p>
+<p>Modrinth: Fabric1.20.1下载地址: <a href="https://modrinth.com/modpack/better-mtr">下载</a><br>Modrinth: Fabric1.19.4下载地址: <a href="https://www.123pan.com/s/6FjRjv-DVwsA#%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9A1145">下载</a><br>Modrinth: Forge下载地址: <a href="https://modrinth.com/modpack/railway-network-access">下载</a></p>
 <h3 id="整合包的问题反馈"><a href="#整合包的问题反馈" class="headerlink" title="整合包的问题反馈"></a>整合包的问题反馈</h3><p>1.您可以在本条文章底部信息评论，请在昵称填写QQ号，方便我们联系到您，问题描述清楚</p>
 <p>2.您可以去往MC百科的底部进行问题上报</p>
 <p>3.加入整合包用户群QQ反馈: <a href="https://link.mcmod.cn/target/aHR0cDovL3FtLnFxLmNvbS9jZ2ktYmluL3FtL3FyP193dj0xMDI3JmFtcDtrPTVIUUJqeVVDdXRjSjMyT3JPWnQ2c3QzMEo5R0NfUkVjJmFtcDthdXRoS2V5PTFkcVRUYzA4JTJGJTJCWnJCWjR5MjA2a3klMkJTZ0pvallORzJoVkpzYm5nM2xwM1NRVHdjQiUyRmIxNEJsdkNZaFR3aDVyZyZhbXA7bm92ZXJpZnk9MCZhbXA7Z3JvdXBfY29kZT0zOTA3MDg3MDU=">QQ进群反馈链接</a></p>
@@ -36,13 +36,8 @@
       </tags>
   </entry>
   <entry>
-    <title>关于本站</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>即刻短文</title>
-    <url>/essay/index.html</url>
+    <title>留言板</title>
+    <url>/message/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -51,8 +46,13 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>留言板</title>
-    <url>/message/index.html</url>
+    <title>关于本站</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>即刻短文</title>
+    <url>/essay/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
